@@ -1,0 +1,9 @@
+D:\Users\Andre\Documents\GitHub\aimlbot\obj\Debug\AimlBot.csprojResolveAssemblyReference.cache
+D:\Users\Andre\Documents\GitHub\aimlbot\obj\Debug\AimlBot.Graph.NodeResources.resources
+D:\Users\Andre\Documents\GitHub\aimlbot\obj\Debug\AimlBot.Graph.QueryResources.resources
+D:\Users\Andre\Documents\GitHub\aimlbot\obj\Debug\AimlBot.Normalize.Utils.FsaNodeResources.resources
+D:\Users\Andre\Documents\GitHub\aimlbot\obj\Debug\AimlBot.csproj.GenerateResource.Cache
+D:\Users\Andre\Documents\GitHub\aimlbot\bin\Debug\AimlBot.dll
+D:\Users\Andre\Documents\GitHub\aimlbot\bin\Debug\AimlBot.pdb
+D:\Users\Andre\Documents\GitHub\aimlbot\obj\Debug\AimlBot.dll
+D:\Users\Andre\Documents\GitHub\aimlbot\obj\Debug\AimlBot.pdb

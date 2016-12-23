@@ -1,0 +1,9 @@
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\bin\Debug\UnitTests.dll
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\bin\Debug\UnitTests.pdb
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\bin\Debug\AimlBot.dll
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\bin\Debug\nunit.framework.dll
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\bin\Debug\AimlBot.pdb
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\bin\Debug\nunit.framework.xml
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\obj\Debug\UnitTests.dll
+D:\Users\Andre\Documents\GitHub\aimlbot\UnitTests\obj\Debug\UnitTests.pdb
